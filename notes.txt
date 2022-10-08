@@ -1,0 +1,31 @@
+1st Assignment
+1. write a js functions to get the first element of an array. passing a parameter 'n' will return the 
+first 'n' element of the array
+
+1. input:(foo([7,9,0,-2]))
+   output: 7
+
+2. input:(foo([0,6,4,5]))
+   output: 0
+
+3. input:(foo([1,2,3,4],-3))
+   output: []
+
+4. input:(foo([1,2,3,4],5))
+   output: [1,2,3,4]
+
+
+
+
+2nd Assignment 
+1.write a js function to get the last element of an array passing a parameter 'n' will return the
+last 'n' element of the array
+
+1. input:(last([7,9,0,-2]))
+   output: -2
+
+2. input:(last([7,9,0,-2],3))
+   output: [9,0,2]
+
+3. input:(last([7,9,0,-2],6))
+   output: [7,9,0,-2]
